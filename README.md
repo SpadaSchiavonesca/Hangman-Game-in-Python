@@ -19,7 +19,7 @@ This project demonstrates:
 
 ## 🎥 Video Demonstration
 
-[![Hangman Game Video Demo](https://i.ytimg.com/vi/YOUR_YOUTUBE_VIDEO_ID/hqdefault.jpg?sqp=-oaymwEmCIAKENyPDhkQqQImQEBFQADgBKoAqQIMhQ&rs=AOn4CLDEXAMPLE)](https://www.dropbox.com/scl/fi/h00nadgm56ktzbzbtxrjp/Hangman.mp4?rlkey=mbh5qnnqsbxoxuernbh05alky&st=iduqac45&dl=0)
+[![Hangman Game Video Demo](https://www.dropbox.com/scl/fi/h00nadgm56ktzbzbtxrjp/Hangman.mp4?rlkey=mbh5qnnqsbxoxuernbh05alky&e=1&st=iduqac45&dl=0)
 *(Replace the placeholder YouTube image URL with a more generic "Play" image if you're not using YouTube)*
 
 > Watch a short demo of the game in action!
