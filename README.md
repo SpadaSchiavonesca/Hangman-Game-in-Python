@@ -1,6 +1,6 @@
 # 🕹️ Hangman Game (Python)
 
-[![Video Demo](https://img.shields.io/badge/Video%20Demo-Watch%20Now-blue)](https://www.dropbox.com/scl/fi/h00nadgm56ktzbzbtxrjp/Hangman.mp4?rlkey=mbh5qnnqsbxoxuernbh05alky&st=iduqac45&dl=0)
+[![Video Demo](https://img.shields.io/badge/Video%20Demo-Watch%20Now-blue)](https://www.dropbox.com/scl/fi/h00nadgm56ktzbzbtxrjp/Hangman.mp4?rlkey=mbh5qnnqsbxoxuernbh05alky&e=1&st=iduqac45&dl=0)
 
 > A classic Hangman game implemented in Python, showcasing fundamental programming concepts and user interaction.
 
@@ -19,8 +19,7 @@ This project demonstrates:
 
 ## 🎥 Video Demonstration
 
-[![Hangman Game Video Demo](https://www.dropbox.com/scl/fi/h00nadgm56ktzbzbtxrjp/Hangman.mp4?rlkey=mbh5qnnqsbxoxuernbh05alky&e=1&st=iduqac45&dl=0)
-*(Replace the placeholder YouTube image URL with a more generic "Play" image if you're not using YouTube)*
+[![Hangman Game Video Demo](https://i.ibb.co/Xy3v4f8/play-button.png)](https://www.dropbox.com/scl/fi/h00nadgm56ktzbzbtxrjp/Hangman.mp4?rlkey=mbh5qnnqsbxoxuernbh05alky&e=1&st=iduqac45&dl=0)
 
 > Watch a short demo of the game in action!
 
