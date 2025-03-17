@@ -1,5 +1,13 @@
+# 📚 CS50's Introduction to Programming with Python - Hangman Game
+
+> Project for Harvard University's CS50 Introduction to Programming with Python.
+> An introduction to programming using Python, a popular language for general-purpose programming, data science, web programming, and more.
+
+---
+
 # 🕹️ Hangman Game (Python)
 
+[![Video Demo](https://img.shields.io/badge/Video%20Demo-Watch%20Now-blue)](https://www.dropbox.com/scl/fi/h00nadgm56ktzbzbtxrjp/Hangman.mp4?rlkey=mbh5qnnqsbxoxuernbh05alky&e=1&st=iduqac45&dl=0)
 
 > A classic Hangman game implemented in Python, showcasing fundamental programming concepts and user interaction.
 
@@ -18,7 +26,7 @@ This project demonstrates:
 
 ## 🎥 Video Demonstration
 
-[![Video Demo](https://img.shields.io/badge/Video%20Demo-Watch%20Now-blue)](https://www.dropbox.com/scl/fi/h00nadgm56ktzbzbtxrjp/Hangman.mp4?rlkey=mbh5qnnqsbxoxuernbh05alky&e=1&st=iduqac45&dl=0)
+[![Video Demo](https://i.ibb.co/Xy3v4f8/play-button.png)](https://www.dropbox.com/scl/fi/h00nadgm56ktzbzbtxrjp/Hangman.mp4?rlkey=mbh5qnnqsbxoxuernbh05alky&e=1&st=iduqac45&dl=0)
 
 > Watch a short demo of the game in action!
 
@@ -26,11 +34,11 @@ This project demonstrates:
 
 ## ✨ Key Features
 
-* **🎨 Multiple Word Categories:** Choose from Fruits, Animals, or Objects for personalized gameplay.
-* **💀 Dynamic Hangman Art:** Visual feedback on incorrect guesses, adding a sense of urgency.
-* **🎮 User-Friendly Interface:** Clear instructions and intuitive terminal interaction.
-* **🎲 Random Word Selection:** Ensures a unique challenge each time you play.
-* **🛡️ Basic Error Handling:** Prevents crashes due to invalid input.
+* 🎨 **Multiple Word Categories:** Choose from Fruits, Animals, or Objects for personalized gameplay.
+* 💀 **Dynamic Hangman Art:** Visual feedback on incorrect guesses, adding a sense of urgency.
+* 🎮 **User-Friendly Interface:** Clear instructions and intuitive terminal interaction.
+* 🎲 **Random Word Selection:** Ensures a unique challenge each time you play.
+* 🛡️ **Basic Error Handling:** Prevents crashes due to invalid input.
 
 ---
 
