@@ -1,7 +1,7 @@
 # 📚 CS50's Introduction to Programming with Python - Hangman Game
 
 > Project for Harvard University's CS50 Introduction to Programming with Python.
-> An introduction to programming using Python, a popular language for general-purpose programming, data science, web programming, and more.
+> An introduction to programming using Python, a popular language for general-purpose programming, data science, cybersecurity, web programming, and more.
 
 ---
 
